@@ -1,5 +1,5 @@
 #==========================================================================================
-#importing necessary components
+#importing necessary component
 import sys
 import pygame
 from random import randint
